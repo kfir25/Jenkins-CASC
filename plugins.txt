@@ -1,0 +1,15 @@
+configuration-as-code
+job-dsl
+workflow-job
+workflow-cps
+matrix-auth
+git
+nodejs
+docker-plugin
+docker-workflow
+docker-build-step
+docker-build-publish
+build-pipeline-plugin
+maven-plugin
+pipeline-maven
+copyartifact
